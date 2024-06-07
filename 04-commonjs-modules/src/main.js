@@ -10,8 +10,6 @@ async function main() {
     // product.getFullName("409", "teclado");
     // product.getProductLabel("mousepad");
 
-    console.log(config.devArea.production);
-
     database.connectToDataBase("Mysql");
     database.disconnectDatabase();
 }
