@@ -9,6 +9,11 @@ Modularização com EcmaScript Modules
 
 ## Modularização com EcmaScript Modules
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+### Diferenças entre CommonJS e EcmaScript Modules
+
+| CommonJS  | EcmaScript Modules |
+| ------------- | ------------- |
+| Sincrono  | Assincrono  |
+| Principal: Servidor(node.js)  | Suportado em navegadores |
+| 'require' e 'module.exports' | 'import' e 'export' |
+| Carregamento dinâmico | Carregamento estático |
