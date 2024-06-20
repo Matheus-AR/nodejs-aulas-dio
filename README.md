@@ -55,3 +55,25 @@
 ### Alguns padrões
 - .cjs: é o padrão antigo, o commonjs.
 - .mjs: é o padrão do esm.
+
+## Gerenciando pacotes com Node
+
+### Introdução
+- Como gerenciar pacotes do node
+- O que é um pacote
+- Quem é o npm
+- Quando um pacote vira uma dependência
+
+### Pré-requisitos
+- Lógica de programação
+- JS básico
+- Entender o que é Node
+- Conceitos de modularização de código
+
+### Teoria sobre Pacotes e dependências
+- Node Package Manager: gerenciador de pacotes do node
+- ajudar a gerenciar os pacotes js do node
+#### O que é um pacote(package)?
+- package na programação: 
+- corrigir propagação de erros
+- empacotar partes do código para reutilizar em outros projetos
