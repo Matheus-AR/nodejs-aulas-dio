@@ -77,3 +77,6 @@
 - package na programação: 
 - corrigir propagação de erros
 - empacotar partes do código para reutilizar em outros projetos
+
+#### Dependências(dependencies)
+- um pacote vira uma dependência quando ele está sendo usado em um projeto
