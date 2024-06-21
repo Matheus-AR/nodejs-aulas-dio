@@ -80,3 +80,4 @@
 
 #### Dependências(dependencies)
 - um pacote vira uma dependência quando ele está sendo usado em um projeto
+- o projeto novo depende de um pacote que está na nuvem
