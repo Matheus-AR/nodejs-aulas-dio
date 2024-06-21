@@ -81,3 +81,21 @@
 #### Dependências(dependencies)
 - um pacote vira uma dependência quando ele está sendo usado em um projeto
 - o projeto novo depende de um pacote que está na nuvem
+
+#### Npmjs Repository
+- onde fica todos os pacotes que são usados como dependencias
+
+#### DevDependencies
+- dois tipos de dependencias:
+    1. dependency(dependencia)
+    2. dev dependency(dev dependencia)
+- só tem utilidade no ambiente de dev (desenvolvimento)
+- no ambiente de produção ela é descartada
+
+#### Gerenciadores
+- nuget: dotnet
+- maven e gradle: java
+- pip: python
+- npm: nodejs (instalado por padrão)
+- yarn: nodejs (alternativas ao npm)
+- pnPm: nodejs
